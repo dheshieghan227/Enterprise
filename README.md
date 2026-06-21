@@ -128,3 +128,9 @@ Allows students to view active bus routes and schedules (Buses A, B, C, D) and t
 Provides UTHM administrative teams with real-time analytics including average occupancy rates, operational speeds, active shuttle summaries, passenger traffic trends, and categorized complaint breakdown charts.
 
 ![Transport Analytics Dashboard](images/ui_transport_analytics_dashboard.png)
+
+
+---
+
+## 💭 Course Reflection
+This repository represents my study of enterprise architectures and systems integration. I learned how modular applications communicate across businesses and how standard integration patterns can simplify workflows and ensure data consistency in large organizations.
